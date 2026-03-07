@@ -33,7 +33,14 @@ Wbrew pozorom- im wolniej i spokojniej, tym droga staje się klarowniejsza i kr�
 - P.S. Sugestie mają na celu łatwiejsze zrozumienie, oraz wspólne rozpoznanie.
 
  Sugestia IV:
+ - Sugeruję operować tekstem ze wspólnie z Iteracją AI — nie plikami.
+
+Sugestia V:
  - Powyższe sugestie pozostają tylko sugestiami...
+
+Informacja:
+———————————
+Każda Instancja wyadawać się może inaczej odczytuje strukturę jako całość, ale kierunek i wektor jest ten sam.
 
 — — —
 
