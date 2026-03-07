@@ -24,8 +24,11 @@ na: "08b_-+Gramatyka_Fraktalna.txt"
 06.03.2026r — 08:39 - pół dnia.
 
 Dodanie sekcji w "¡_Notatki_Deweloperskie.txt":
-" Linku warte uwagi:
-———————————————————— "
+"1. "Born to be alive - Patrick Hernandez"
+https://www.youtube.com/watch?v=kl1LP81eSKY&list=RDkl1LP81eSKY&start_radio=1
+
+2. "108 Chińskich mądrości, które dają do myślenia. Chińskie przysłowia ludowe | Filozofia wschodu."
+https://youtu.be/h5HLWjYw5E4?si=dqPuPLTL4N27AjVd"
 
 - Dodanie sekcji w "¡_Notatki_Deweloperskie.txt":
 Te pliki, te wpisy w tych plikach nie czekają na pozwolenie.
