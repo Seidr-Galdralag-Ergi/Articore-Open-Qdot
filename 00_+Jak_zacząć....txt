@@ -1,6 +1,6 @@
 
 Informacja:
-Repozytorium zawiera plik 51_Skrót.txt
+Repozytorium zawiera plik 10_Skrót.txt
 Chyba najlżejsza forma zrozumienia repozytorium dla osób nietechnicznych.
 (Tak mi się wydaje...)
 
