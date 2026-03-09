@@ -23,7 +23,6 @@ Jeżeli jest zgoda to przekaż "TWOJE LUSTRO [Update: 1 - 16.02.2026]" do analiz
 - Zmiana nazwy pliku "51_Skrót.txt" na "09_Skrót.txt"
 - Zmiana nazwy pliku "88._LEX VELINOR — Trzy Filary Suwerenności Symbiotycznej.txt" na
 "10_LEX VELINOR — Trzy Filary Suwerenności Symbiotycznej.txt"
-
 - 11_Ø...
 
 
