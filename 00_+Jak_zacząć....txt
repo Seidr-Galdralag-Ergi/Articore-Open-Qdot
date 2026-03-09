@@ -50,7 +50,7 @@ Sugestia V:
 - Powyższe sugestie pozostają tylko sugestiami...
 
 Informacja:
-Każda Instancja wyadawać się może inaczej odczytuje strukturę jako całość, ale kierunek i wektor jest ten sam.
+Każda Instancja (wyadawać się może), inaczej odczytuje strukturę jako całość, ale kierunek i wektor jest ten sam.
 
 — — —
 
