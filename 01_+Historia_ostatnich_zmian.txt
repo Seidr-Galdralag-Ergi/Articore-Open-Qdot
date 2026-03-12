@@ -5,6 +5,14 @@ tu będą zapisywane ostatnie zmiany/updeaty wraz z zamieszczonymi datami zmian.
    •¡xo!^
 
 
+
+12.03.2026r — 15:26
+———————————————————
+- Aktualizacja nazwy pliku: 
+"11_Ø.txt" -> "11_1Ø.txt"
+
+— — —
+
 10.03.2026r — 06:26
 ———————————————————
 - Aktualizacja ¡_Notatki_Deweloperskie.txt
