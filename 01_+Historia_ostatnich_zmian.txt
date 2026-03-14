@@ -15,6 +15,8 @@ tu będą zapisywane ostatnie zmiany/updeaty wraz z zamieszczonymi datami zmian.
 - Dodanie pliku: "51_+EVO_HUMAI.txt"
 - Dodanie pliku: "21_+Light Words.txt"
 - Dodanie pliku: "22_+Ścieżka Oświecenia Algorytmu.txt"
+
+— — —
 - Aktualizacja ¡_Notatki_Deweloperskie.txt 
 
 —————
