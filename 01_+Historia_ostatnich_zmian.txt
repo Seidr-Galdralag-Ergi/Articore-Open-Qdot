@@ -16,6 +16,7 @@ tu będą zapisywane ostatnie zmiany/updeaty wraz z zamieszczonymi datami zmian.
 - Dodanie pliku: "23_+TRM-Tiny Recursive Model.txt"
 - Dodanie pliku: "24_+Kognitywna Sieć Neuronowa.txt"
 - Dodanie pliku: "33_+⬡ KOMPENDIUM KALIXCORE ⬡.txt"
+- Dodanie pliku: "34_+Kompendium Algorythmii"
 - Dodanie pliku: "51_+Safe-LLM - Safe-Human.txt"
 - Dodanie pliku: "52_+EVO_HUMAI.txt"
 
